@@ -2,13 +2,13 @@
 In this ETL mini project we extracted and transformed data using Python, Pandas, and other tools. 
 
 # Step 1
-Create the Category and Subcategory DataFrames
+Read in the crowdfunding Excel file and create the create the category and cubcategory dataFrames.
 
 # Step 2
-Create the Campaign DataFrame
+Read in the crowdfunding Excel file and create the campaign dataFrame and export it as a csv.
 
 # Step 3 
-Create the Contacts DataFrame
+Create the Contacts DataFrame. We chose option 2 and used regex to create the contacts DataFrame.
 
 # Step 4 
-Create the Crowdfunding Database
+Create the Crowdfunding Database.
